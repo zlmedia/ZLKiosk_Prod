@@ -1,0 +1,9 @@
+{
+   "data":[
+      {
+         "version":"0.6.12",
+         "required": false
+         "url":"https://github.com/zlmedia/ZLKiosk_Prod/releases/download/v0.6.12/Setup_ZLKiosk_0.6.12.msi"
+      }
+   ]
+}
