@@ -1,6 +1,10 @@
 {
    "data":[
       {
+         "version":"1.0.8",
+         "url":"https://github.com/zlmedia/ZLKiosk_Prod/releases/download/v1.0.8/Setup_ZLKiosk_1.0.8.msp"
+      },      
+      {
          "version":"1.0.5",
          "url":"https://github.com/zlmedia/ZLKiosk_Prod/releases/download/v1.0.5/Setup_ZLKiosk_1.0.5.msi"
       },
